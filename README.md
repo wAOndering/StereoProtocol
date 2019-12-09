@@ -1,4 +1,4 @@
 # StereoProtocol
-StereoProtocol see the wiki [wiki]. 
+StereoProtocol see the [wiki]. 
 
 [wiki]: https://github.com/wAOndering/StereoProtocol/wiki
